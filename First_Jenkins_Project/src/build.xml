@@ -14,7 +14,7 @@
 	<!-- Output, Jar -->
 	<property name="dist.dir" location="dist" />
 
-<target name="all" depends = "init,compile,dist,clean">
+<target name="all" depends = "clean,init,compile,dist">
 	</target>
 
 
