@@ -10,6 +10,8 @@ public class Hello_Jenkins {
 		
 		System.out.println("jira issue Upadate Modified");
 		
+		System.out.println("Change the jira id pattern");
+		
 		
 	}
 
